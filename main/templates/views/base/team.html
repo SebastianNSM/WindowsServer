@@ -1,0 +1,33 @@
+{% import 'components/team-member.html' as team %}
+<section id="team" class="py-5 teal lighten-4">
+    <div class="container">
+        <section class="text-center text-lg-left">
+            <div class="text-white pb-4">
+                <h2 class="text-center font-weight-bold mb-4 pb-1">Integrantes</h2>
+                <hr class="w-header mt-4">
+            </div>
+            <div class="row">
+                {{ team.member(
+                "Isaac Miranda Madrigal",
+                "imirandam@ucenfotec.ac.cr",
+                url_for('.static', filename='img/Isaac.jpg')
+                ) }}
+                {{ team.member(
+                "Javier Pozuelo Méndez",
+                "jpozuelom@ucenfotec.ac.cr",
+                url_for('.static', filename='img/javier.jpg')
+                ) }}
+                {{ team.member(
+                "Matthew Russell Obregón",
+                "mrussello@ucenfotec.ac.cr",
+                url_for('.static', filename='img/matt.jpg')
+                ) }}
+                {{ team.member(
+                "Sebastián Soto Madrigal",
+                "ssotom@ucenfotec.ac.cr",
+                url_for('.static', filename='img/me.jpg')
+                ) }}
+            </div>
+        </section>
+    </div>
+</section>
