@@ -12,6 +12,6 @@ def index():
     return render_template('views/base/index.html', videos=data)
 
 
-@r_base.route('/get_docs')
+@r_base.route('/documentacion.zip')
 def get_documentation():
     return r_base.send_static_file('grupo2.zip')
