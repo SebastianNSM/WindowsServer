@@ -64,5 +64,17 @@
     "type": "Configuración & Política de grupo",
     "url": "https://www.youtube.com/embed/ENDSCYKMkzM",
     "description": ""
+  },
+  {
+    "title": "Mapear un recurso de red utilizando el DFS para uso personal",
+    "type": "Configuración & Política de grupo",
+    "url": "https://www.youtube.com/embed/Ga7Ls7WaGn4",
+    "description": ""
+  },
+  {
+    "title": "WSUS",
+    "type": "Configuración",
+    "url": "https://www.youtube.com/embed/O8djO_wzvoM",
+    "description": ""
   }
 ]
