@@ -2,79 +2,66 @@
   {
     "title": "AD con DNS",
     "type": "Instalación",
-    "url": "https://www.youtube.com/embed/gugGA2LwWT0",
-    "description": ""
+    "url": "https://www.youtube.com/embed/gugGA2LwWT0"
   },
   {
     "title": "DNS y AD",
     "type": "Configuración",
-    "url": "https://www.youtube.com/embed/ThYl1Q3uNBQ",
-    "description": ""
+    "url": "https://www.youtube.com/embed/ThYl1Q3uNBQ"
   },
   {
     "title": "DHCP",
     "type": "Instalación & Configuración",
-    "url": "https://www.youtube.com/embed/tY2lrtTfap8",
-    "description": ""
+    "url": "https://www.youtube.com/embed/tY2lrtTfap8"
   },
   {
     "title": "IIS & Certificate Authority",
     "type": "Instalación & Configuración",
-    "url": "https://www.youtube.com/embed/Uph2BGFu7Sc",
-    "description": ""
+    "url": "https://www.youtube.com/embed/Uph2BGFu7Sc"
   },
   {
     "title": "Política para aplicación de actualizaciones del sistema operativo",
     "type": "Política de grupo",
-    "url": "https://www.youtube.com/embed/W9Dug1a3eLE",
-    "description": ""
+    "url": "https://www.youtube.com/embed/W9Dug1a3eLE"
   },
   {
     "title": "La ubicación del Folder Redirection para los usuarios del dominio",
     "type": "Política de grupo",
-    "url": "https://www.youtube.com/embed/u61GuvDf9KE",
-    "description": ""
+    "url": "https://www.youtube.com/embed/u61GuvDf9KE"
   },
   {
     "title": "Configurar el firewall de Windows para permitir el ping entre equipos de dominio",
     "type": "Política de grupo",
-    "url": "https://www.youtube.com/embed/e57557opRk0",
-    "description": ""
+    "url": "https://www.youtube.com/embed/e57557opRk0"
   },
   {
     "title": "Renombrar el usuario administrador y el usuario invitado de las estaciones",
     "type": "Política de grupo",
-    "url": "https://www.youtube.com/embed/zAGfipNFi4A",
-    "description": ""
+    "url": "https://www.youtube.com/embed/zAGfipNFi4A"
   },
   {
     "title": "Papel Tapiz",
     "type": "Configuración & Política de grupo",
-    "url": "https://www.youtube.com/embed/JYbrbWQqxPI",
-    "description": ""
+    "url": "https://www.youtube.com/embed/JYbrbWQqxPI"
   },
   {
     "title": "Desactivar panel de control",
     "type": "Configuración & Política de grupo",
-    "url": "https://www.youtube.com/embed/776DVUplKVo",
-    "description": ""
+    "url": "https://www.youtube.com/embed/776DVUplKVo"
   },
   {
     "title": "Bloqueo de ejecutables",
     "type": "Configuración & Política de grupo",
-    "url": "https://www.youtube.com/embed/ENDSCYKMkzM",
-    "description": ""
+    "url": "https://www.youtube.com/embed/ENDSCYKMkzM"
   },
   {
     "title": "Mapear un recurso de red utilizando el DFS para uso personal",
     "type": "Configuración & Política de grupo",
-    "url": "https://www.youtube.com/embed/Ga7Ls7WaGn4",
-    "description": ""
+    "url": "https://www.youtube.com/embed/Ga7Ls7WaGn4"
   },
   {
     "title": "WSUS",
     "type": "Configuración",
-    "url": "https://www.youtube.com/embed/O8djO_wzvoM",
-    "description": ""
+    "url": "https://www.youtube.com/embed/O8djO_wzvoM"
   }
 ]
